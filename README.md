@@ -2,10 +2,10 @@
 
 <h2>Sumário</h2>
 
-[Uma Breve História do Git](#1)
+[1. Uma Breve História do Git](#1)
 
 
-## <a name=“1”><a/> Uma Breve História do Git
+## <a name=“1”><a/> Uma Breve História do Git (Chacon e Straub, 2014)
 
 Como muitas coisas na vida, o Git começou com um pouco de destruição criativa e uma controvérsia de fogo.
 
