@@ -3,7 +3,7 @@
 <h2>Sumário</h2>
 
 
-[1. Uma Breve História do Git](#1)
+[1. Uma Breve História do Git](#1) <br/>
 [2. Quero começar a usar o Git, como faço?](#2)
 
 ## <a name=“1”><a/> Uma Breve História do Git (Chacon e Straub, 2014)
@@ -32,8 +32,8 @@ Desde seu nascimento em 2005, Git evoluiu e amadureceu para ser fácil de usar e
 
 São elas:
 
-a) Ferramentas originais de linha de comando;
-b) Interfaces gráficas de usuário (GUI - Graphical User Interface) com opções variadas.
+> a) Ferramentas originais de linha de comando;<br/>
+> b) Interfaces gráficas de usuário (GUI - Graphical User Interface) com opções variadas.
 
 A linha de comando é o único lugar onde você pode rodar <b>todos</b> os comandos do Git - a maioria das GUI implementa somente um subconjunto das funcionalidades do Git. 
 
