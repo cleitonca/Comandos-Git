@@ -5,7 +5,7 @@
 ## Sumário
 
 
-[1. Uma Breve História do Git](#1) <br/>
+[1. Uma Breve História do Git](#historia) <br/>
 [2. Quero começar a usar o Git, como faço?](#2)<br/>
 &ensp;&ensp;[2.1 Formas de usar o git](#2.1)<br/>
 &ensp;&ensp;[2.2 Instalando no Windows](#2.2) <br/>
@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-## <a name=“1”><a/> Uma Breve História do Git (Chacon e Straub, 2014)
+## <a name=“historia”><a/> Uma Breve História do Git (Chacon e Straub, 2014)
 
 Como muitas coisas na vida, o Git começou com um pouco de destruição criativa e uma controvérsia de fogo.
 
