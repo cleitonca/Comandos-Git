@@ -1,11 +1,11 @@
 # Git e GitHub
 
-<h2Sumário</h2>
+<h2>Sumário</h2>
 
-[Uma Breve História do Git](readme.md/1)
+[Uma Breve História do Git](#1)
 
 
-<h3 id="1">Uma Breve História do Git</h3>
+## <a name=“1”><a/> Uma Breve História do Git
 
 Como muitas coisas na vida, o Git começou com um pouco de destruição criativa e uma controvérsia de fogo.
 
