@@ -42,6 +42,6 @@ Se você sabe como usar o Git na linha de comando, você provavelmente descobrir
 
 <h3>Windows</h3>
 
-
+<a href="https://git-scm.com/download/win">Baixar o Git</a>
   
 
