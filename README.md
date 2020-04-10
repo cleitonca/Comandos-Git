@@ -28,7 +28,7 @@ Desde seu nascimento em 2005, Git evoluiu e amadureceu para ser fácil de usar e
 
 ## <a name=“2”><a/> Quero começar a usar o Git, como faço?
   
-<h3> 1º) Você precisa saber que existem várias formas diferentes de usar o Git. 
+<h3> 1º) Você precisa saber que existem várias formas diferentes de usar o Git. </h3>
 
 São elas:
 
