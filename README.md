@@ -5,7 +5,10 @@
 
 [1. Uma Breve História do Git](#1) <br/>
 [2. Quero começar a usar o Git, como faço?](#2)
+  [2.1 Formas de usar o git](#2.1)
+  [2.2 Instalando no Windows](#2.2)
 
+<br/>
 ## <a name=“1”><a/> Uma Breve História do Git (Chacon e Straub, 2014)
 
 Como muitas coisas na vida, o Git começou com um pouco de destruição criativa e uma controvérsia de fogo.
@@ -26,7 +29,7 @@ Capaz de lidar com projetos grandes como o núcleo o Linux com eficiência (velo
 Desde seu nascimento em 2005, Git evoluiu e amadureceu para ser fácil de usar e ainda reter essas qualidades iniciais. Ele é incrivelmente rápido, é muito eficiente com projetos grandes, e ele tem um incrível sistema de ramos para desenvolvimento não linear.
 
 
-## <a name=“2”><a/> Quero começar a usar o Git, como faço?
+## <a name=“2.1”><a/> Quero começar a usar o Git, como faço?
   
 <h3> 1º) Você precisa saber que existem várias formas diferentes de usar o Git. </h3>
 
@@ -40,7 +43,7 @@ A linha de comando é o único lugar onde você pode rodar <b>todos</b> os coman
 Se você sabe como usar o Git na linha de comando, você provavelmente descobrirá como rodar versões GUI, enquanto o oposto não é necessariamente verdade. Além disso, enquanto a sua escolha da interface gráfica é uma questão de gosto pessoal, todos os usuário terão as ferramentas de linha de comando instaladas e disponíveis.
 
 
-## <a name=“2.1”><a/> <h3>Windows</h3>
+## <a name=“2.2”><a/> <h3>Windows</h3>
 
 <a href="https://git-scm.com/download/win">Baixar o Git</a>
   
