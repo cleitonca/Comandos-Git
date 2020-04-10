@@ -5,8 +5,8 @@
 
 [1. Uma Breve História do Git](#1) <br/>
 [2. Quero começar a usar o Git, como faço?](#2)<br/>
-&ensp;[2.1 Formas de usar o git](#2.1)<br/>
-&ensp;[2.2 Instalando no Windows](#2.2) <br/>
+&ensp;&ensp;[2.1 Formas de usar o git](#2.1)<br/>
+&ensp;&ensp;[2.2 Instalando no Windows](#2.2) <br/>
 
 <br/>
 <br/>
