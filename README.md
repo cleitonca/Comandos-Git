@@ -1,5 +1,7 @@
 # Git e GitHub
 
+Ótimo resumo do Git e GitHub.
+
 ## Sumário
 
 
