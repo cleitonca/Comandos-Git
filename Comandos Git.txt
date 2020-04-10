@@ -1,9 +1,25 @@
 Repositório Local:
 
+----------------------------------------------------------
 - Criar novo repositório: 
 
 git init
+----------------------------------------------------------
 
 - Verificar estado dos arquivos/diretórios: 
 
 git status
+----------------------------------------------------------
+
+- Adicionar arquivo/diretório na Staged area:
+
+[arquivo ou diretório específico:]
+
+git add meu_arquivo.txt
+
+git add meu_diretorio
+
+[adicionar todos os arquivos/diretorios:]
+
+git add .
+----------------------------------------------------------
