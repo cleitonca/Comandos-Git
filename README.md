@@ -1,6 +1,6 @@
 # Git e GitHub
 
-##<h2>Sumário</h2>
+#<h2>Sumário</h2>
 
 
 [1. Uma Breve História do Git](#1) <br/>
