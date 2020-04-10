@@ -5,10 +5,11 @@
 
 [1. Uma Breve História do Git](#1) <br/>
 [2. Quero começar a usar o Git, como faço?](#2)<br/>
-  [2.1 Formas de usar o git](#2.1)<br/>
-  [2.2 Instalando no Windows](#2.2)
+    [2.1 Formas de usar o git](#2.1)<br/>
+    [2.2 Instalando no Windows](#2.2) <br/>
 
-
+<br/>
+<br/>
 
 ## <a name=“1”><a/> Uma Breve História do Git (Chacon e Straub, 2014)
 
