@@ -53,21 +53,21 @@ Se você sabe como usar o Git na linha de comando, você provavelmente descobrir
   
 ## <a name=“3”><a/> Comandos
 
-## Criar/Iniciar novo repositório:
+<h2> Criar/Iniciar novo repositório: </h2>
 
 git init
 
-## Verificar estado dos arquivos/diretórios:
+<h2> Verificar estado dos arquivos/diretórios: </h2>
 
 git status
   
-## Adicionar arquivo/diretório (staged area):
+<h2> Adicionar arquivo/diretório (staged area): </h2>
 
-## Adicionar um arquivo em específico:
+<h3> Adicionar um arquivo em específico: </h3>
 
 git add meu_arquivo.txt
 
-## Adicionar todos os arquivos/diretórios
+<h3> Adicionar todos os arquivos/diretórios </h3>
 
 git add .
 
