@@ -21,5 +21,5 @@ git add meu_diretorio
 
 [adicionar todos os arquivos/diretorios:]
 
-git add .
+git add . + nome do aquivo novo
 ----------------------------------------------------------
