@@ -51,4 +51,23 @@ Se você sabe como usar o Git na linha de comando, você provavelmente descobrir
 
 <a href="https://git-scm.com/download/win">Baixar o Git</a>
   
+## <a name=“3”><a/> Comandos
+
+## Criar/Iniciar novo repositório:
+
+git init
+
+## Verificar estado dos arquivos/diretórios:
+
+git status
+  
+## Adicionar arquivo/diretório (staged area):
+
+## Adicionar um arquivo em específico:
+
+git add meu_arquivo.txt
+
+## Adicionar todos os arquivos/diretórios
+
+git add .
 
