@@ -1,6 +1,6 @@
 # Git e GitHub
 
-Ótimo resumo do Git e GitHub.
+Resumo e comandos úteis do Git
 
 
 
@@ -16,21 +16,21 @@ A linha de comando é o único lugar onde você pode rodar <b>todos</b> os coman
 Se você sabe como usar o Git na linha de comando, você provavelmente descobrirá como rodar versões GUI, enquanto o oposto não é necessariamente verdade. Além disso, enquanto a sua escolha da interface gráfica é uma questão de gosto pessoal, todos os usuário terão as ferramentas de linha de comando instaladas e disponíveis.
 
 
-## <a name=“2.2”><a/> <h3>Downloads</h3>
+## <a name=“2.2”><a/> <h3>Downloads do Git</h3>
 
   <a href="https://git-scm.com/download">Baixar o Git</a>
   
 ## <a name=“3”><a/> Comandos
 
-<h2> Criar/Iniciar novo repositório: </h2>
+<h3> Criar/Iniciar novo repositório: </h3>
 
       git init
 
-<h2> Verificar estado dos arquivos/diretórios: </h2>
+<h3> Verificar estado dos arquivos/diretórios: </h3>
 
       git status
   
-<h2> Adicionar arquivo/diretório (staged area): </h2>
+<h3> Adicionar arquivo/diretório (staged area): </h3>
 
 <h3> Adicionar um arquivo em específico: </h3>
 
