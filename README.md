@@ -18,7 +18,7 @@ Se você sabe como usar o Git na linha de comando, você provavelmente descobrir
 
 ## <a name=“2.2”><a/> <h3>Downloads</h3>
 
-      <a href="https://git-scm.com/download/win">Baixar o Git</a>
+  <a href="https://git-scm.com/download">Baixar o Git</a>
   
 ## <a name=“3”><a/> Comandos
 
