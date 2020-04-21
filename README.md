@@ -23,7 +23,7 @@ Se você sabe como usar o Git na linha de comando, você provavelmente descobrir
 
 ## <a name=“2.2”><a/> <h3>Livro em Português do Git</h3>
 
-  <a href="https://git-scm.com/book/pt-br/v2">Baixar o Git</a>
+  <a href="https://git-scm.com/book/pt-br/v2">Ir até o Livro do Git</a>
 
 
 ## <a name=“3”><a/> Comandos
