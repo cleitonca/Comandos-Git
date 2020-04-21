@@ -4,7 +4,7 @@ Resumo e comandos úteis do Git
 
 
 
-## <a name=“2.1”><a/> Quero começar a usar o Git, como faço?
+## <a name=“2.1”><a/> Como usar o git?
   
 <h3> 1º) Você pode usar o git de várias formas diferentes</h3>
 
@@ -19,7 +19,13 @@ Se você sabe como usar o Git na linha de comando, você provavelmente descobrir
 ## <a name=“2.2”><a/> <h3>Downloads do Git</h3>
 
   <a href="https://git-scm.com/download">Baixar o Git</a>
-  
+
+
+## <a name=“2.2”><a/> <h3>Livro em Português do Git</h3>
+
+  <a href="https://git-scm.com/book/pt-br/v2">Baixar o Git</a>
+
+
 ## <a name=“3”><a/> Comandos
 
 <h3> Criar/Iniciar novo repositório: </h3>
