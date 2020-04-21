@@ -50,3 +50,13 @@ Se você sabe como usar o Git na linha de comando, você provavelmente descobrir
   
     git remote add origin https://github.com/cleitoninfo/Git-e-GitHub.git
 
+<h3>Enviar arquivos/diretórios para o repositório remoto</h3>
+
+O primeiro push de um repositório deve conter o nome do repositório remoto e o branch.
+
+    git push -u origin master
+    
+    
+Os demais pushes não precisam dessa informação
+
+    git push
